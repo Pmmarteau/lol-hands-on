@@ -9,6 +9,7 @@ def main():
     data = load_csv("games.csv")
     print(data.head())
 
+print('yo')
 
 if __name__ == "__main__":
     main()
